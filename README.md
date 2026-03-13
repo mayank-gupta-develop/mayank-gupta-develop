@@ -57,7 +57,6 @@ https://invento-pro-2mfi.onrender.com
 - GitHub
 - VS Code
 - Render
-- Chart.js
 
 ## Concepts
 - Data Structures & Algorithms
