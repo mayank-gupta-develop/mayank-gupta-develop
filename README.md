@@ -20,6 +20,7 @@ A full-stack inventory, catalog, billing, and sales management platform built fo
 - Express.js
 - PostgreSQL
 - HTML
+- EJS
 - CSS
 
 ⚙️ **Key Features**
@@ -42,6 +43,7 @@ https://invento-pro-2mfi.onrender.com
 - JavaScript
 - HTML5
 - CSS3
+- EJS
 
 ## Backend
 - Node.js
