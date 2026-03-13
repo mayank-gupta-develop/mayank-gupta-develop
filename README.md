@@ -21,7 +21,6 @@ A full-stack inventory, catalog, billing, and sales management platform built fo
 - PostgreSQL
 - HTML
 - CSS
-- Chart.js
 
 ⚙️ **Key Features**
 - Product catalog and inventory management
